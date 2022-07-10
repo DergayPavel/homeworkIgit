@@ -1,0 +1,58 @@
+.menu {
+    display:block;
+    position: absolute;
+    width: 1069.9px;
+    height: 60px;
+    left: 184.1px;
+    top: 30px;
+}
+.menu__logoipsum {
+    color: black;
+    font-family: normal;
+    left: 184px;
+    top: 40px;
+    display: inline-block;
+}
+.menu__list {
+    margin-left: 170px;
+    display: inline-block;
+    position: absolute;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    top: 15px;
+}
+div span{
+    margin-right: 49px ;
+    color: #696871;
+}
+
+.menu__logoipsum_icon {
+    left: 184px;
+    top: 40px;
+    display: inline-block;
+}
+.menu__logoipsum_name {
+    display: inline-block;
+}
+.menu__enter {
+    position:absolute;
+    display: inline-block;
+    left: 1043px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 60px;
+    width: 211px;
+
+    color: #FFFFFF;
+    background: #FF7143;
+    border: 2px solid #FF7143;
+    border-radius: 10px;
+    text-align: center;
+
+}
+.menu__list_link{
+    color: black;
+    border-bottom: 1px solid #5454D4;
+}
